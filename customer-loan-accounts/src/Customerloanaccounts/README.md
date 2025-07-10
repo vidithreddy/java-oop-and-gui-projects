@@ -30,7 +30,7 @@ This project models real-world entities such as customers, addresses, and variou
 
 ---
 
-## Project Structure
+## Project File Structure
 src/
 ├── Address.java
 ├── CarLoan.java
