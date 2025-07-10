@@ -30,7 +30,7 @@ This project models real-world entities such as customers, addresses, and variou
 
 ---
 
-## Project Structure
+## Project File Structure
 src/
 ├── Address.java
 ├── CarLoan.java
@@ -55,7 +55,7 @@ This project was created to practice advanced Java object-oriented design by mod
 
 It demonstrates how to:
 
-Build flexible, extensible class hierarchies.
-Apply inheritance and polymorphism to support different loan types.
-Use composition to model natural relationships between customers and their loans.
-Write clean, maintainable Java code that can be extended to more complex systems.
+- Build flexible, extensible class hierarchies.
+- Apply inheritance and polymorphism to support different loan types.
+- Use composition to model natural relationships between customers and their loans.
+- Write clean, maintainable Java code that can be extended to more complex systems.
