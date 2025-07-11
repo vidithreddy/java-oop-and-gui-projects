@@ -40,7 +40,7 @@ This desktop project demonstrates clean **object-oriented design** and **full-st
 ---
 
 ## Project File Structure
-src/
+src/<br />
 └── coursescheduler/<br />
     ├── CourseEntry.java<br />
     ├── CourseQueries.java<br />
