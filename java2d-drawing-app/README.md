@@ -39,8 +39,8 @@ It's designed to showcase advanced **object-oriented programming (OOP)** princip
 ---
 
 ## Project File Structure
-src/
-└── java2ddrawingapplication/<br />
+src<br />
+└── java2ddrawingapplication<br />
     ├── DrawingApplicationFrame.java<br />
     ├── Java2dDrawingApplication.java<br />
     ├── MyBoundedShapes.java<br />
